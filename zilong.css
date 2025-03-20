@@ -3,4 +3,10 @@ html{
 }
 .title{
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+}
+img{
+    display: block;
+    margin: 0 auto;
 }
